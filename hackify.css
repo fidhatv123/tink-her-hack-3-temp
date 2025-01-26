@@ -17,7 +17,7 @@
 
 .left {
     left: 0;
-    background-color: #000;
+    background-color: #000000;
     left: 0;
     display: flex;
     justify-content: center;
@@ -101,6 +101,7 @@ input {
 input::placeholder {
     color: #bbb;
 }
+
 button[type="submit"] {
     width: 100%;
     padding: 12px;
