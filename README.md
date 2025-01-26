@@ -9,7 +9,7 @@
 - Member 3: Aashlyn Rose Antony - GEC Thrissur
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+deployed link - https://bright-cheesecake-2d183b.netlify.app/
 
 ### Project Description
 This project acts as a primary source of communication between the hackathon organisers and participants.
